@@ -1,0 +1,57 @@
+{
+    "Inventories": [
+        {
+            "Inventory_Id": 1,
+            "Name": "Shoprite",
+            "Password": "HelloHello8",
+            "Items": {
+                "BOH": [
+                    {
+                        "Item_Id": 1,
+                        "Name": "Strawberry",
+                        "Quantity": 50,
+                        "Latest-Shipment": "2023-09-09T12:00:00Z",
+                        "Description": "New shipment"
+                    },
+                    {
+                        "Item_Id": 2,
+                        "Name": "Tomatoes",
+                        "Quantity": 20,
+                        "Latest-Shipment": "2023-10-09T12:00:00Z",
+                        "Description": "New shipment"
+                    },
+                    {
+                        "Item_Id": 3,
+                        "Name": "Bananas",
+                        "Quantity": 10,
+                        "Latest-Shipment": "2023-11-09T12:00:00Z",
+                        "Description": "New shipment"
+                    },
+                    {
+                        "Item_Id": 1,
+                        "Name": "Strawberry",
+                        "Quantity": 5,
+                        "Latest-Shipment": "2023-11-09T12:00:00Z",
+                        "Description": "New shipment"
+                    }
+                ]
+            }
+        },
+        {
+            "Inventory_Id": 2,
+            "Name": "Pizzeria",
+            "Password": "CSI23",
+            "Items": {
+                "BOH": [
+                    {
+                        "Item_Id": 1,
+                        "Name": "Tomato Sauce Can",
+                        "Quantity": 10,
+                        "Latest-Shipment": "2023-11-09T12:00:00Z",
+                        "Description": "New Shipment"
+                    }
+                ]
+            }
+        }
+    ]
+}
