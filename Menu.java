@@ -1,4 +1,6 @@
-import java.util.ArrayList;
+//change it into abstract class
+// An ArrayList is a resizable array, which can dynamically increase in size as needed.
+import java.util.ArrayList; // Importing the ArrayList class from the Java standard library.
 
 public abstract class Menu {
     private ArrayList<String> itemList; // Creating an ArrayList to store menu item names.
@@ -47,3 +49,8 @@ public abstract class Menu {
     // Make the 'deleteItem' method abstract, as it should be implemented by concrete subclasses
     public abstract void deleteItem(String id);
 }
+
+
+
+
+
