@@ -1,0 +1,12 @@
+.sidebar {
+    transition: margin-left 0.3s;
+  }
+  
+  .sidebar-open {
+    margin-left: 0;
+  }
+  
+  .sidebar-closed {
+    margin-left: -200px; /* Adjust the value to match your sidebar width */
+  }
+  
